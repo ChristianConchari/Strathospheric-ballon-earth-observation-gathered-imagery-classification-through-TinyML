@@ -2,7 +2,7 @@
 
 ## Project descripction
 
-This repository holds code for the project .
+This repository holds code for the project, deployed for the "2do Concurso de experimentos para Globos Estratosféricos" organised by [Tecnonautas](https://tecnonautasbolivia.com/).
 
 ## Usage
 
