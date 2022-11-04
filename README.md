@@ -15,8 +15,6 @@ This repository holds code for the project, deployed for the "2do Concurso de ex
 ![TensorFlow Lite model](https://github.com/ChristianConchari/Strathospheric-ballon-earth-observation-gathered-imagery-classification-through-TinyML/blob/master/tflite-model.png)
 
 
-
-
 **Figura 1.** Ranking de DB-Engines - Tendencia de popularidad
 
 ## UCB Deep Space - Cubesat team
