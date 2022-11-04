@@ -4,18 +4,13 @@
 
 This repository holds code for the project, deployed for the "2do Concurso de experimentos para Globos Estratosféricos" organised by [Tecnonautas](https://tecnonautasbolivia.com/).
 
-## Usage
+## On ground test images evaluation
 
-### 1. Prepare the data
-### 2. Prepare the deployment environment
-### 3. Run test set
+<img src="https://github.com/ChristianConchari/Strathospheric-ballon-earth-observation-gathered-imagery-classification-through-TinyML/blob/master/tf-model.png" alt="TF model" style="width:400px;"/><img src="https://github.com/ChristianConchari/Strathospheric-ballon-earth-observation-gathered-imagery-classification-through-TinyML/blob/master/tflite-model.png" alt="TFLite model" style="width:400px;"/>
 
-![TensorFlow model](https://github.com/ChristianConchari/Strathospheric-ballon-earth-observation-gathered-imagery-classification-through-TinyML/blob/master/tf-model.png) 
+## On board classified images
 
-![TensorFlow Lite model](https://github.com/ChristianConchari/Strathospheric-ballon-earth-observation-gathered-imagery-classification-through-TinyML/blob/master/tflite-model.png)
-
-
-**Figura 1.** Ranking de DB-Engines - Tendencia de popularidad
+<img src="https://github.com/ChristianConchari/Strathospheric-ballon-earth-observation-gathered-imagery-classification-through-TinyML/blob/master/onboard-good.png" alt="good" style="width:400px;"/><img src="https://github.com/ChristianConchari/Strathospheric-ballon-earth-observation-gathered-imagery-classification-through-TinyML/blob/master/onboard-bad.png" alt="bad" style="width:400px;"/>
 
 ## UCB Deep Space - Cubesat team
 We are a group of researchers and students from the [Universidad Católica Boliviana "San Pablo"](https://lpz.ucb.edu.bo/).
