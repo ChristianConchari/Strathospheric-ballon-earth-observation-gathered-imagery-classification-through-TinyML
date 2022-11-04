@@ -10,6 +10,15 @@ This repository holds code for the project, deployed for the "2do Concurso de ex
 ### 2. Prepare the deployment environment
 ### 3. Run test set
 
+![TensorFlow model](https://github.com/ChristianConchari/Strathospheric-ballon-earth-observation-gathered-imagery-classification-through-TinyML/blob/master/tf-model.png) 
+
+![TensorFlow Lite model](https://github.com/ChristianConchari/Strathospheric-ballon-earth-observation-gathered-imagery-classification-through-TinyML/blob/master/tflite-model.png)
+
+
+
+
+**Figura 1.** Ranking de DB-Engines - Tendencia de popularidad
+
 ## UCB Deep Space - Cubesat team
 We are a group of researchers and students from the [Universidad Católica Boliviana "San Pablo"](https://lpz.ucb.edu.bo/).
 
